@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Column
+  - JellyFish
+  - Shark
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SortingLayer_1
+    uniqueID: 24218807
+    locked: 0
+  - name: SortingLayer_2
+    uniqueID: 3529167767
+    locked: 0
+  - name: SortingLayer_3
+    uniqueID: 2652456519
+    locked: 0
+  - name: Canvas
+    uniqueID: 3564221111
+    locked: 0
